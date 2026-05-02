@@ -2,4 +2,5 @@ This is my file no. 1 for Git course.
 The benefit of git init is here our tracking of folders get start.
 First git status then git init then git add then git push.
 Let's checks something by adding more content to this file but not commiting it. 
+Let's add some more comment
 
