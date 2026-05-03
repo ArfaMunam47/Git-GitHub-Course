@@ -1,3 +1,8 @@
 I am a fix file which is used to fix the bug.
 let's fix another bug.
+<<<<<<< HEAD
 Here let's check the branch one more time and then save changes and see graph of it
+=======
+another bug detected and fixed.
+Doing it just to extent the pink line in the git graph.
+>>>>>>> orange-mode

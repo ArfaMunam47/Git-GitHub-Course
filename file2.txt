@@ -1,5 +1,9 @@
 This is my file 2 for Git course.
 Adding some more content to file no. 2
+<<<<<<< HEAD
 
 Let's check this file whether it's in master branch or orange-mode branch.
 Checking one more time.
+=======
+Let's add some more content to it.
+>>>>>>> orange-mode
