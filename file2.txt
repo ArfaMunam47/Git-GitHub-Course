@@ -8,4 +8,8 @@ Checking one more time.
 Let's add some more content to it.
 >>>>>>> orange-mode
 Trying to resolve some errors  here.
+<<<<<<< HEAD
 Why is there errors showing in this file.
+=======
+Okay this will gonna be my footer to solve this crazy problem.
+>>>>>>> master

@@ -1,2 +1,8 @@
 Trying to resolve an issue.
+<<<<<<< HEAD
 Bug Fixing.
+=======
+Bug Fixing.
+Let's try to fix this merging issue.
+Okay this will gonna be my footer.
+>>>>>>> master
