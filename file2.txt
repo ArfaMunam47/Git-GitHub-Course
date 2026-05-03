@@ -8,3 +8,4 @@ Checking one more time.
 Let's add some more content to it.
 >>>>>>> orange-mode
 Trying to resolve some errors  here.
+Why is there errors showing in this file.
