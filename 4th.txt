@@ -1,2 +1,7 @@
 This is my file fourth of orange-mode branch.
+<<<<<<< HEAD
 Why my files are getting deleted.
+=======
+Why my files are getting deleted.
+Let fix it too.
+>>>>>>> new
