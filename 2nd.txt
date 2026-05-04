@@ -1,2 +1,3 @@
 Just trying to solve some errors.
 We just connected this to out remote repo by git push add origin and then paste the link of our repo.
+a final checking.
